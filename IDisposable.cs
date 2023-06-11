@@ -1,0 +1,4 @@
+﻿interface IDisposable
+{
+    void Dispose();
+}
